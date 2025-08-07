@@ -1,2 +1,9 @@
 # Image-Classification_ML_Model
-🧠 CNN model for image classification, Used Fashion MNIST dataset. Built with Conv, Pooling, Dropout layers. Classified clothes with 93% accuracy and evaluated on test data for performance.
+
+* Built a CNN model for classifying 70,000 Fashion MNIST clothing images.
+* Dataset: Fashion MNIST (10 classes like T-shirt, Trouser, Sneaker, etc.)
+* Model: Uses Conv2D, MaxPooling2D, Dropout, and Dense layers
+* Frameworks: TensorFlow & Keras
+* Evaluated on test data for 93% accuracy and performance
+* Trained to recognize patterns in grayscale 28x28 images
+
